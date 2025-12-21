@@ -1,5 +1,7 @@
-- 👋 Holas, soy @solccast (Sol :) ), creo que sé programar. Me gusta hacerlo <3 
+- Holas, soy @solccast (Sol :) de La Plata
 - Actualmente estudiante de la Facultad de Informática - UNLP 
+- Escucho música a toda hora
+
 
 🫀 Amo a mis gatos y tener muchos litros de mate encima
 
