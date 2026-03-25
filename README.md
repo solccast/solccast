@@ -2,7 +2,7 @@
 
 Soy estudiante de Informática en la Universidad Nacional de La Plata y me encanta estar frente a la compu ^^. 
 
-Actualmente me encuentro cursando 5to año de la carrera y gran entusiasmo en nuevos desafíos del sector. 
+Actualmente me encuentro cursando 5to año de la carrera y manejo un gran entusiasmo a enfrentarme a nuevos desafíos del sector. 
 
 > 🫀A mis compañeros de vida: Hanna, Mino, Napoleón y la pandilla 🐈🐕
 
