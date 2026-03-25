@@ -1,10 +1,13 @@
 <h1 align="left">☀️ Holis, soy Sol, todo bien?</h1>
 
 Soy estudiante de Informática en la Universidad Nacional de La Plata y me encanta estar frente a la compu ^^. 
+
 Actualmente me encuentro cursando 5to año de la carrera y gran entusiasmo en nuevos desafíos del sector. 
 
-> 🫀A mis compañeros de vida: Hanna, Mino, Napoleón y la pandilla 🐈🐕 
-###
+> 🫀A mis compañeros de vida: Hanna, Mino, Napoleón y la pandilla 🐈🐕
+
+
+### Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -46,7 +49,7 @@ Actualmente me encuentro cursando 5to año de la carrera y gran entusiasmo en nu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
 </div>
 
-###
+### Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sol-ch-castro/" target="_blank">
